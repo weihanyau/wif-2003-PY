@@ -1,6 +1,6 @@
 <?php
 //Q1-Write PHP and PHP data objects (PDOs) statements to connect to the MySQL database server.
-$host = 'localhost:3307';
+$host = 'localhost';
 $dbname = 'riskdb';
 $username = 'manager';
 $password = 'mgr123';
